@@ -14,3 +14,5 @@ This is something that every business should have to know, strengths and weaknes
 - Customers can easily add relevant answers to your form.
 
 > [Try Our APP](https://apps.shopify.com/event-management-myappgurus)
+
+>[For More Details Read Our Article](https://myappgurus.com/how-to-streamline-your-events-with-an-event-management-app/)
